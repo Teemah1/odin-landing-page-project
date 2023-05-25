@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+   
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid green;
+    margin: 0;
+    padding: 10px 100px;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    gap: 20px
+
+}
+
+a {
+    text-decoration: none;
+}
