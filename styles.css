@@ -71,7 +71,7 @@ img {
     padding: 15px;
 }
 
-.main-text {
+.hero-text {
     color: #F9FaF8;
     font-size: 48px;
     font-weight:bolder;
@@ -104,7 +104,7 @@ button {
 .info {
     font-size: 36px;
     color: #1f2937;
-    font-weight: 900;
+    font-weight: bolder;
     margin: 50px 0 20px;
 }
 
@@ -115,9 +115,11 @@ button {
 }
 .image-section .img-desc {
     text-align: center;
-    font-size: 18px;
     width: 180px;
     height: 100px;
+    color: #1f2937;
+    font-size : 18px;
+    font-weight:500;
 }
 .image-section img {
     width: 180px;
@@ -131,7 +133,7 @@ button {
     font-size: 36px;
     color: #1f2937;
     font-style: italic;
-    font-weight: 10;
+    font-weight: light;
     margin: 50px 0;
     padding: 100px 250px;
     flex-direction: column;
@@ -162,7 +164,7 @@ button {
 .call {
     color: #F9FaF8;
     font-size: 24px;
-    font-weight: 900;
+    font-weight: bolder;
 }
 
 .sign {
